@@ -1,3 +1,3 @@
 # Learning Git
 
-print('Intoduction to git and installing git')
+print('Introduction to git and installing git')
