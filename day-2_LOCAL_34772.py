@@ -2,6 +2,6 @@
 
 print('Intoduction to git and installing git')
 
-# Adding changes
+# Trying new branch
 
-print('Modified file')
+print('Added new branch')
