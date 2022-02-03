@@ -1,7 +1,7 @@
-# Learning Git
+/* Learning Git */
 
 print('Intoduction to git and installing git')
 
-# Trying new branch
+# Adding changes
 
-print('Added new branch')
+print('Modified file')
